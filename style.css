@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    max-width: 700 px;
+    margin: auto;  
+    padding: 20 px;
+}
+
+.subtitle {
+    font-size: 18 px;
+    color: darkmagenta;
+}
+
+.profile-image {
+    width: 150 px;
+    height: 150 px;
+    border-radius: 50%;
+    margin-top: 20 px;
+}
+
+.about {
+    margin-top: 30 px;
+    background-color: aqua;
+    padding: 20 px;
+    border-radius: 8 px;
+    box-shadow: 0 2 px 5 px rgba(0,0,0,0.1);
+}
+
+.about h2 {
+    margin-bottom: 10px;
+}
+    
+    .details {
+    margin-top: 30px;
+    text-align: left;
+}
+    
+    .details h2 {
+    text-align: center;
+}
+    
+    .portfolio {
+    margin-top: 20px;
+    
+}
+    
+    .portfolio  {
+    text-decoration: none;
+    font-weight: bold;
+    color: #431535;
+    font-size: 16px;
+}
+    
+    .portfolio a:hover {
+    text-decoration: underline;
+}
+    
+    .socials {
+    margin-top: 20px;
+}
+    
+    .icon {
+    width: 30px;
+    margin: 0 10px;
+}
