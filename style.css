@@ -30,6 +30,7 @@ body {
     padding: 20 px;
     border-radius: 8 px;
     box-shadow: 0 2 px 5 px rgba(0,0,0,0.1);
+    color: #aa0f7c;
 }
 
 .about h2 {
@@ -39,6 +40,7 @@ body {
     .details {
     margin-top: 30px;
     text-align: left;
+    color: #237d2f;
 }
     
     .details h2 {
@@ -53,7 +55,7 @@ body {
     .portfolio  {
     text-decoration: none;
     font-weight: bold;
-    color: #431535;
+    
     font-size: 16px;
 }
     
